@@ -351,8 +351,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Contributors
 
-- **ILLA SAI BHARAT KUMAR** - Lead Developer
-- GitHub: [@24A31A05KP](https://github.com/24A31A05KP)
+- **Masakapalli Chitti Naga Lakshmi** 
+- GitHub: [@24A31A05JN](https://github.com/24A31A05JN)
 
 ## 🙏 Acknowledgments
 
@@ -363,9 +363,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues:** [GitHub Issues](https://github.com/24A31A05KP/CitizenSheild/issues)
-- **Email:** illasaibharatkumar@gmail.com
-- **Documentation:** [Project Wiki](https://github.com/24A31A05KP/CitizenSheild/wiki)
+- **Issues:** [GitHub Issues](https://github.com/24A31A05JN/CitizenSheild/issues)
+- **Email:** masakapallinagalakshmi8@gmail.com
+- **Documentation:** [Project Wiki](https://github.com/24A31A05JN/CitizenSheild/wiki)
 
 ## ⚠️ Disclaimer
 
@@ -377,7 +377,7 @@ This platform is designed to supplement, not replace, official emergency service
 
 \\\ash
 # Clone and setup
-git clone https://github.com/24A31A05KP/CitizenSheild.git
+git clone https://github.com/24A31A05JN/CitizenSheild.git
 cd CitizenSheild
 
 # Backend setup
@@ -401,4 +401,4 @@ git push origin main
 
 **Made with ❤️ for women safety** | **CitizenSheild v2.0.0**
 
-[Report Bug](https://github.com/24A31A05KP/CitizenSheild/issues) · [Request Feature](https://github.com/24A31A05KP/CitizenSheild/issues) · [Live Demo](https://24a31a05kp.github.io/CitizenSheild/)
+[Report Bug](https://github.com/24A31A05JN/CitizenSheild/issues) · [Request Feature](https://github.com/24A31A05JN/CitizenSheild/issues) · [Live Demo](https://24a31a05JN.github.io/CitizenSheild/)
